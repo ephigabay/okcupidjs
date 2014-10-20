@@ -72,7 +72,7 @@ Returns a list of your "stalkers" who have visited you.
 
 Collaboration
 =============
-Feel free to send suggestions, ask questinos, or report issues via the issues board.
+Feel free to send suggestions, ask questions, or report issues via the issues board.
 Pull requests and feature enhancements are very welcome.
 
 Credits
